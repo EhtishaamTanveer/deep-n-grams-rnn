@@ -20,7 +20,7 @@ deep_n_grams_rnn/
 
 ├── data/               
 
-│   └── your_text.txt  
+│   └── shakespeare_data.txt  
 
 ├── deep-n-grams-rnn.ipynb  
 
