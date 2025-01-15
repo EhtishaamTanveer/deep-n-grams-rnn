@@ -26,6 +26,8 @@ deep_n_grams_rnn/
 
 ├── utils.py 
 
+├── test_utils.py 
+
 ├── w1_unittest.py
 
 ├── README.md           
